@@ -1,0 +1,16 @@
+{
+    "name": "vyunak/sinegrum-test",
+    "type": "test",
+    "autoload": {
+        "psr-4": {
+            "app\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "vyunak",
+            "email": "lubim4ikvlad@gmail.com"
+        }
+    ],
+    "require": {}
+}
